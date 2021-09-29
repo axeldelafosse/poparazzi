@@ -1,0 +1,9 @@
+.phone > input {
+  outline: none;
+  border: none;
+  font-size: 24px;
+  background-color: transparent;
+  font-weight: bold;
+  font-family: GraphikBold;
+  color: inherit;
+}

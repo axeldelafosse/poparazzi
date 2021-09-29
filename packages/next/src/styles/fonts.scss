@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'GraphikRegular';
+  src: url('/fonts/GraphikRegular.woff2') format('woff2'),
+    url('/fonts/GraphikRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GraphikMedium';
+  src: url('/fonts/GraphikMedium.woff2') format('woff2'),
+    url('/fonts/GraphikMedium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GraphikSemibold';
+  src: url('/fonts/GraphikSemibold.woff2') format('woff2'),
+    url('/fonts/GraphikSemibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GraphikBold';
+  src: url('/fonts/GraphikBold.woff2') format('woff2'),
+    url('/fonts/GraphikBold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GraphikBlack';
+  src: url('/fonts/GraphikBlack.woff2') format('woff2'),
+    url('/fonts/GraphikBlack.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueHaasGroteskDisplayW02Reg';
+  // src: url('/fonts/NeueHaasGroteskDisplayW02Reg.woff2') format('woff2'),
+  src: url('/fonts/NeueHaasGroteskDisplayW02Reg.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueHaasGroteskDisplayW02Medium';
+  // src: url('/fonts/NeueHaasGroteskDisplayW02Reg.woff2') format('woff2'),
+  src: url('/fonts/NeueHaasGroteskDisplayW02Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueHaasGroteskDisplayW02Bold';
+  // src: url('/fonts/NeueHaasGroteskDisplayW02Reg.woff2') format('woff2'),
+  src: url('/fonts/NeueHaasGroteskDisplayW02Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueHaasGroteskDisplayW02Blk';
+  // src: url('/fonts/NeueHaasGroteskDisplayW02Reg.woff2') format('woff2'),
+  src: url('/fonts/NeueHaasGroteskDisplayW02Blk.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
